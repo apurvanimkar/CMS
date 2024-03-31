@@ -1,0 +1,36 @@
+{
+    "Movie":
+    {
+        
+	    "movie_name":"Harry Potter",
+	    "director":"JK Rowling",
+	    "language":"English",
+        "Character":[
+        {
+        "pid":1,
+	    "characterName":"Harry",
+	    "age":25,
+	    "role":"Main Actor"
+
+        }
+        ]
+    }
+}
+
+
+==================
+[  {
+    "Movie":
+    {
+        
+	    "name":"Harry Potter",
+	    "director":"JK Rowling",
+	    
+        "Character":
+        {
+        "char_name":"Harry",
+	     "role":"Main Actor"
+        }
+        
+    }
+}  ]
